@@ -1,0 +1,7 @@
+app = "discord-ticket-bot"
+primary_region = "ord"
+
+[build]
+
+[env]
+  NODE_ENV = "production"
